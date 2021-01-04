@@ -1,21 +1,35 @@
 {
   "files": {
-    "main.css": "/react-survey-public/static/css/main.075b7145.chunk.css",
-    "main.js": "/react-survey-public/static/js/main.7e7ab776.chunk.js",
-    "main.js.map": "/react-survey-public/static/js/main.7e7ab776.chunk.js.map",
-    "runtime-main.js": "/react-survey-public/static/js/runtime-main.9f8e1fe0.js",
-    "runtime-main.js.map": "/react-survey-public/static/js/runtime-main.9f8e1fe0.js.map",
-    "static/js/2.0f25349f.chunk.js": "/react-survey-public/static/js/2.0f25349f.chunk.js",
-    "static/js/2.0f25349f.chunk.js.map": "/react-survey-public/static/js/2.0f25349f.chunk.js.map",
-    "index.html": "/react-survey-public/index.html",
-    "static/css/main.075b7145.chunk.css.map": "/react-survey-public/static/css/main.075b7145.chunk.css.map",
-    "static/js/2.0f25349f.chunk.js.LICENSE.txt": "/react-survey-public/static/js/2.0f25349f.chunk.js.LICENSE.txt",
-    "static/media/link.57b9d268.png": "/react-survey-public/static/media/link.57b9d268.png"
+    "main.css": "/attention-seeker-test-public/static/css/main.2a4d300c.chunk.css",
+    "main.js": "/attention-seeker-test-public/static/js/main.27bb05f2.chunk.js",
+    "main.js.map": "/attention-seeker-test-public/static/js/main.27bb05f2.chunk.js.map",
+    "runtime-main.js": "/attention-seeker-test-public/static/js/runtime-main.45db2ecd.js",
+    "runtime-main.js.map": "/attention-seeker-test-public/static/js/runtime-main.45db2ecd.js.map",
+    "static/js/2.3c8fe2be.chunk.js": "/attention-seeker-test-public/static/js/2.3c8fe2be.chunk.js",
+    "static/js/2.3c8fe2be.chunk.js.map": "/attention-seeker-test-public/static/js/2.3c8fe2be.chunk.js.map",
+    "static/js/3.9f1f44f2.chunk.js": "/attention-seeker-test-public/static/js/3.9f1f44f2.chunk.js",
+    "static/js/3.9f1f44f2.chunk.js.map": "/attention-seeker-test-public/static/js/3.9f1f44f2.chunk.js.map",
+    "index.html": "/attention-seeker-test-public/index.html",
+    "static/css/main.2a4d300c.chunk.css.map": "/attention-seeker-test-public/static/css/main.2a4d300c.chunk.css.map",
+    "static/js/2.3c8fe2be.chunk.js.LICENSE.txt": "/attention-seeker-test-public/static/js/2.3c8fe2be.chunk.js.LICENSE.txt",
+    "static/media/a_lot_of_money_sales_man.25ae4993.jpg": "/attention-seeker-test-public/static/media/a_lot_of_money_sales_man.25ae4993.jpg",
+    "static/media/apply.4b7df7ef.png": "/attention-seeker-test-public/static/media/apply.4b7df7ef.png",
+    "static/media/craft_master.05b32b40.jpg": "/attention-seeker-test-public/static/media/craft_master.05b32b40.jpg",
+    "static/media/god_of_progress.b7319d4e.jpg": "/attention-seeker-test-public/static/media/god_of_progress.b7319d4e.jpg",
+    "static/media/Result.css": "/attention-seeker-test-public/static/media/restart.55159329.png",
+    "static/media/last_scene_writer.73da5eb7.jpg": "/attention-seeker-test-public/static/media/last_scene_writer.73da5eb7.jpg",
+    "static/media/million_youtuber.bfe4a25a.jpg": "/attention-seeker-test-public/static/media/million_youtuber.bfe4a25a.jpg",
+    "static/media/no_human_tel_master.d6feed9f.jpg": "/attention-seeker-test-public/static/media/no_human_tel_master.d6feed9f.jpg",
+    "static/media/school_trip_devil.6a936220.jpg": "/attention-seeker-test-public/static/media/school_trip_devil.6a936220.jpg",
+    "static/media/Home.css": "/attention-seeker-test-public/static/media/start.71eed524.png",
+    "static/media/top_star_manager.41c49ed2.jpg": "/attention-seeker-test-public/static/media/top_star_manager.41c49ed2.jpg",
+    "static/media/turkey_icecream_man.c8bdd756.jpg": "/attention-seeker-test-public/static/media/turkey_icecream_man.c8bdd756.jpg",
+    "static/media/two_time_naturer.536c5390.jpg": "/attention-seeker-test-public/static/media/two_time_naturer.536c5390.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f8e1fe0.js",
-    "static/js/2.0f25349f.chunk.js",
-    "static/css/main.075b7145.chunk.css",
-    "static/js/main.7e7ab776.chunk.js"
+    "static/js/runtime-main.45db2ecd.js",
+    "static/js/2.3c8fe2be.chunk.js",
+    "static/css/main.2a4d300c.chunk.css",
+    "static/js/main.27bb05f2.chunk.js"
   ]
 }
