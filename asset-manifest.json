@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/attention-seeker-test-public/static/css/main.436f1fcf.chunk.css",
-    "main.js": "/attention-seeker-test-public/static/js/main.20d46cf1.chunk.js",
-    "main.js.map": "/attention-seeker-test-public/static/js/main.20d46cf1.chunk.js.map",
+    "main.js": "/attention-seeker-test-public/static/js/main.e6422a0d.chunk.js",
+    "main.js.map": "/attention-seeker-test-public/static/js/main.e6422a0d.chunk.js.map",
     "runtime-main.js": "/attention-seeker-test-public/static/js/runtime-main.8f2ead7b.js",
     "runtime-main.js.map": "/attention-seeker-test-public/static/js/runtime-main.8f2ead7b.js.map",
     "static/js/2.f5cb9fc7.chunk.js": "/attention-seeker-test-public/static/js/2.f5cb9fc7.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/Result.css": "/attention-seeker-test-public/static/media/restart.55159329.png",
     "static/media/last_scene_writer.73da5eb7.jpg": "/attention-seeker-test-public/static/media/last_scene_writer.73da5eb7.jpg",
     "static/media/million_youtuber.bfe4a25a.jpg": "/attention-seeker-test-public/static/media/million_youtuber.bfe4a25a.jpg",
-    "static/media/no_human_tel_master.d6feed9f.jpg": "/attention-seeker-test-public/static/media/no_human_tel_master.d6feed9f.jpg",
+    "static/media/no_human_tel_owner.d6feed9f.jpg": "/attention-seeker-test-public/static/media/no_human_tel_owner.d6feed9f.jpg",
     "static/media/school_trip_devil.6a936220.jpg": "/attention-seeker-test-public/static/media/school_trip_devil.6a936220.jpg",
     "static/media/Home.css": "/attention-seeker-test-public/static/media/start.71eed524.png",
     "static/media/top_star_manager.41c49ed2.jpg": "/attention-seeker-test-public/static/media/top_star_manager.41c49ed2.jpg",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.8f2ead7b.js",
     "static/js/2.f5cb9fc7.chunk.js",
     "static/css/main.436f1fcf.chunk.css",
-    "static/js/main.20d46cf1.chunk.js"
+    "static/js/main.e6422a0d.chunk.js"
   ]
 }
