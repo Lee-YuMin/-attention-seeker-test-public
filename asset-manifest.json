@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/attention-seeker-test-public/static/css/main.6b7c77a7.chunk.css",
-    "main.js": "/attention-seeker-test-public/static/js/main.3f48ac49.chunk.js",
-    "main.js.map": "/attention-seeker-test-public/static/js/main.3f48ac49.chunk.js.map",
+    "main.css": "/attention-seeker-test-public/static/css/main.436f1fcf.chunk.css",
+    "main.js": "/attention-seeker-test-public/static/js/main.0c41c5ab.chunk.js",
+    "main.js.map": "/attention-seeker-test-public/static/js/main.0c41c5ab.chunk.js.map",
     "runtime-main.js": "/attention-seeker-test-public/static/js/runtime-main.8f2ead7b.js",
     "runtime-main.js.map": "/attention-seeker-test-public/static/js/runtime-main.8f2ead7b.js.map",
     "static/js/2.f5cb9fc7.chunk.js": "/attention-seeker-test-public/static/js/2.f5cb9fc7.chunk.js",
     "static/js/2.f5cb9fc7.chunk.js.map": "/attention-seeker-test-public/static/js/2.f5cb9fc7.chunk.js.map",
     "index.html": "/attention-seeker-test-public/index.html",
-    "static/css/main.6b7c77a7.chunk.css.map": "/attention-seeker-test-public/static/css/main.6b7c77a7.chunk.css.map",
+    "static/css/main.436f1fcf.chunk.css.map": "/attention-seeker-test-public/static/css/main.436f1fcf.chunk.css.map",
     "static/js/2.f5cb9fc7.chunk.js.LICENSE.txt": "/attention-seeker-test-public/static/js/2.f5cb9fc7.chunk.js.LICENSE.txt",
     "static/media/a_lot_of_money_sales_man.25ae4993.jpg": "/attention-seeker-test-public/static/media/a_lot_of_money_sales_man.25ae4993.jpg",
     "static/media/apply.4b7df7ef.png": "/attention-seeker-test-public/static/media/apply.4b7df7ef.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.8f2ead7b.js",
     "static/js/2.f5cb9fc7.chunk.js",
-    "static/css/main.6b7c77a7.chunk.css",
-    "static/js/main.3f48ac49.chunk.js"
+    "static/css/main.436f1fcf.chunk.css",
+    "static/js/main.0c41c5ab.chunk.js"
   ]
 }
